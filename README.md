@@ -1,0 +1,2 @@
+My first basic HTML coding project in the Odin Project. 
+Through this project, I was able to demonstrate the ability to create a HTML boiler plate from scratch, add images and headings, create links and to use lists. 
